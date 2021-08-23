@@ -1,4 +1,4 @@
-# SmartBrain - v2
+# Face- Recognition Website 
 Final project for ZTM course
 
 1. Clone this repo
